@@ -9,3 +9,7 @@ Steps:
    - var rating = 'pg' // Rating of the gifs
    - var wid = 500 // image width resolution
    - var hgt = 500 // image height resolution
+
+Initial code was taken from a LinkedIn Learning Introduction to API's course.
+
+This was built to add random gifs to OBS streams.
