@@ -4,7 +4,7 @@ Simple webpage that will refresh content from Giphy every 10 seconds.
 Steps:
  - Register for Developers Account on [Giphy](https://developers.giphy.com/docs/api/#quick-start-guide).  You will need an API key
  - Review the variables in script.js and update accordingly:
-   - var tag = 'cats' // Search Terms, update the tags within quotes
+   - var tag = 'cats' // Search Terms, update the tags within quotes, multiple tags can be separated by a space
    - var api = 'Your API Key' // Your API Key
    - var rating = 'pg' // Rating of the gifs
    - var wid = 500 // image width resolution
