@@ -13,3 +13,5 @@ Steps:
 Initial code was taken from a LinkedIn Learning Introduction to API's course.
 
 This was built to add random gifs to OBS streams.
+
+If you want to add this to your OBS, add a 'browser' as a scene source, tick 'local file' and point to where you saved the index.html file.
